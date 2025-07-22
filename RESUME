@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <center><b>RESUME</b></center>
+</head>
+<head>
+    <style>
+        p {
+            text-align: right;
+        }
+    </style>
+</head>
+<body>
+    <p>Luhitha Boppana<br>
+        8465040678<br>
+        luhithaboppana@gmail.com
+    </p>
+</body>
+</html>
